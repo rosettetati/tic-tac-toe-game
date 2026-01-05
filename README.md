@@ -28,6 +28,9 @@ The game uses a 3x3 board, allows two players to play on the same computer, and 
 ## How to Compile and Run
 
 ### Using Makefile (Recommended)
-1. Compile the game:
+1. Compile the game and run:
    ```bash
    make
+   ./tictactoe
+
+   
